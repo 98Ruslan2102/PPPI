@@ -42,5 +42,15 @@ namespace PPPI_prog
 
         }
 
+        /// <summary>
+        /// Метод создания цилиндра
+        /// </summary>
+        /// <param name="_length"> Длина цилиндра</param>
+        /// <param name="_height"> Высота цилиндра</param>
+        public void Cylinder(double _length, double _height)
+        {
+
+        }
+
     }
 }
