@@ -17,5 +17,15 @@ namespace PPPI_prog
         public ActionFigureOne()
         {
         }
+
+        /// <summary>
+        /// Метод расчёто точек после перемещения фигуры
+        /// </summary>
+        /// <param name="_startkoor"> Начальные координаты</param>
+        /// <param name="_endkoor"> Конечные координаты</param>
+        public void CalculationPointsMove(int _startkoor, int _endkoor)
+        {
+
+        }
     }
 }
