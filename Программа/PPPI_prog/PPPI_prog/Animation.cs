@@ -21,5 +21,15 @@ namespace PPPI_prog
         {
             typeAnimation = _typeAnimation;
         }
+
+        /// <summary>
+        /// Метод расчитывающий длительность анимации
+        /// </summary>
+        /// <param name="_start"> Начало анимации</param>
+        /// <param name="_finish"> Конец анимации</param>
+        public void TimeAnimation(double _start, double _finish)
+        {
+
+        }
     }
 }
