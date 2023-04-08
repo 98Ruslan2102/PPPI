@@ -6,16 +6,29 @@ using System.Threading.Tasks;
 
 namespace PPPI_prog
 {
+
+
     /// <summary>
     /// Создание класса Shape(фигура)
     /// </summary>
     class Shape
     {
+        double length;
+        double width;
+        double height;
+
         /// <summary>
         /// Конструктор Shape
         /// </summary>
-        public Shape()
+        /// <param name="_length"> Длина фигуры</param>
+        /// <param name="_width"> Ширина фигуры</param>
+        /// <param name="_height"> Высота фигуры</param>
+        public Shape(double _length, double _width, double _height)
         {
+            length = _length;
+            width = _width;
+            height = _height;
         }
+
     }
 }
