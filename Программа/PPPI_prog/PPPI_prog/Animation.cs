@@ -34,5 +34,14 @@ namespace PPPI_prog
         {
 
         }
+
+        /// <summary>
+        /// Рендеринг
+        /// </summary>
+        /// <param name="_FormatSave">Формат сохранения</param>
+        public void Rendering(string _FormatSave)
+        {
+
+        }
     }
 }
