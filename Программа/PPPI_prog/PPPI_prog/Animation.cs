@@ -13,13 +13,16 @@ namespace PPPI_prog
     class Animation
     {
         string typeAnimation;
+        string FormatSave;
         /// <summary>
         /// Конструктор Animation
         /// </summary>
         /// <param name="_typeAnimation"> Вид анимации</param>
-        public Animation(string _typeAnimation)
+        /// /// <param name="_FormatSave"> Вид анимации</param>
+        public Animation(string _typeAnimation, string _FormatSave)
         {
             typeAnimation = _typeAnimation;
+            FormatSave = _FormatSave;
         }
 
         /// <summary>
