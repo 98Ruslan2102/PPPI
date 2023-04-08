@@ -36,5 +36,13 @@ namespace PPPI_prog
         {
 
         }
+
+        /// <summary>
+        /// Изменения освещения фигуры
+        /// </summary>
+        public void ChangingIllumination()
+        {
+
+        }
     }
 }
