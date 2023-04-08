@@ -17,5 +17,13 @@ namespace PPPI_prog
         public SideView()
         {
         }
+
+        /// <summary>
+        /// Просмотр проекции в 3 видах
+        /// </summary>
+        public void ViewingShapeInViews()
+        {
+
+        }
     }
 }
