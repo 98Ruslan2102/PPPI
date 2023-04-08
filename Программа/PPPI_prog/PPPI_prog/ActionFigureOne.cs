@@ -44,5 +44,13 @@ namespace PPPI_prog
         {
 
         }
+
+        /// <summary>
+        /// Печать фигуры
+        /// </summary>
+        public void Print()
+        {
+
+        }
     }
 }
