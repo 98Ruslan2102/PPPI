@@ -30,5 +30,16 @@ namespace PPPI_prog
             height = _height;
         }
 
+        /// <summary>
+        /// Метод создания куба
+        /// </summary>
+        /// <param name="_length">  Длина фигуры</param>
+        /// <param name="_width"> Ширина фигуры</param>
+        /// <param name="_height"> Высота фигуры</param>
+        public void Cube(double _length, double _width, double _height)
+        {
+
+        }
+
     }
 }
