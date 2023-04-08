@@ -17,5 +17,13 @@ namespace PPPI_prog
         public GroupTogether()
         {
         }
+
+        /// <summary>
+        /// Метод для разгруппировки фигур
+        /// </summary>
+        public void Ungroup()
+        {
+
+        }
     }
 }
