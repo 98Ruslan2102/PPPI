@@ -27,5 +27,14 @@ namespace PPPI_prog
         {
 
         }
+
+        /// <summary>
+        /// Изменения параметров фигуры
+        /// </summary>
+        /// <param name="_newparam">Новые парамерты фигуры</param>
+        public void ChangingParameters(int _newparam)
+        {
+
+        }
     }
 }
