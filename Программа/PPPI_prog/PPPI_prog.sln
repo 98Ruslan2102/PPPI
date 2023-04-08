@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PPPI_prog", "PPPI_prog\PPPI_prog.csproj", "{102D94DD-B311-4CB9-8BB5-62A429D1D597}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{102D94DD-B311-4CB9-8BB5-62A429D1D597}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{102D94DD-B311-4CB9-8BB5-62A429D1D597}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{102D94DD-B311-4CB9-8BB5-62A429D1D597}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{102D94DD-B311-4CB9-8BB5-62A429D1D597}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E12EEEB3-B0D7-44F0-89B5-785714DD2907}
+	EndGlobalSection
+EndGlobal
