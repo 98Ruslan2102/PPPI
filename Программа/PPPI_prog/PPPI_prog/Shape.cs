@@ -11,9 +11,21 @@ namespace PPPI_prog
     /// </summary>
     class Shape
     {
+        /// <summary>
+        /// Переменная длины фигуры
+        /// </summary>
         double length;
+        /// <summary>
+        /// Переменная длины фигуры
+        /// </summary>
         double width;
+        /// <summary>
+        /// Переменная высоты фигуры
+        /// </summary>
         double height;
+        /// <summary>
+        /// Переменная Тип фигуры
+        /// </summary>
         string typeShape;
 
         /// <summary>

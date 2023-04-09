@@ -12,7 +12,13 @@ namespace PPPI_prog
     /// </summary>
     class Animation
     {
+        /// <summary>
+        /// Переменная Вид анимации
+        /// </summary>
         string typeAnimation;
+        /// <summary>
+        /// Переменная Формат сохранения
+        /// </summary>
         string FormatSave;
         /// <summary>
         /// Конструктор Animation
