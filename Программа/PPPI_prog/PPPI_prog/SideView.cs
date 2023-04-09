@@ -16,6 +16,7 @@ namespace PPPI_prog
         /// </summary>
         public SideView()
         {
+		//Вид сбоку, что ж ещё
         }
 
         /// <summary>
@@ -23,7 +24,7 @@ namespace PPPI_prog
         /// </summary>
         public void ViewingShapeInViews()
         {
-
+		//
         }
     }
 }
