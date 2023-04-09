@@ -16,6 +16,7 @@ namespace PPPI_prog
         /// </summary>
         public Copy()
         {
+		//Ctrl + C, Ctrl + V
         }
     }
 }
