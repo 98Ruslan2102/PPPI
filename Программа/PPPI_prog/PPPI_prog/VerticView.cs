@@ -4,6 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+/*
+*
+*	Автор: Mr. Samoilenko
+*
+*/
+
 namespace PPPI_prog
 {
     /// <summary>
