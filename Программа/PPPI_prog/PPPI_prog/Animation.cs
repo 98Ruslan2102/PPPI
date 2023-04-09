@@ -38,6 +38,8 @@ namespace PPPI_prog
         /// <param name="_finish"> Конец анимации</param>
         public void TimeAnimation(double _start, double _finish)
         {
+			double Time;
+            Time = _finish - _start;
 
         }
 
