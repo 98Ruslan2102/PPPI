@@ -16,6 +16,7 @@ namespace PPPI_prog
         /// </summary>
         public ActionWithFigure()
         {
+		//ЭКШООООООООООООН
         }
     }
 }
