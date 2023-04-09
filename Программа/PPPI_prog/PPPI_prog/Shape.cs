@@ -49,7 +49,7 @@ namespace PPPI_prog
         /// <param name="_height"> Высота цилиндра</param>
         public void Cylinder(double _length, double _height)
         {
-
+		//Я забыл
         }
 
     }
